@@ -1,0 +1,4 @@
+.foo-bar {
+  composes: box from "./../../shared/styles/main.css";
+  color: red;
+}
